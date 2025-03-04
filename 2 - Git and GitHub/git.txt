@@ -17,4 +17,12 @@ git status
 git add "file/folder name"
 
 # Add files to staging area
-git add 
+git add .
+
+# Commit files
+git commit -m "description"
+
+# Legends for Git
+U = Untracked
+A = Added
+M = Modified
