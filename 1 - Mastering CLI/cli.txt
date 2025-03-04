@@ -1,0 +1,29 @@
+GUI = Graphical User Interface - uses Icons/Buttons/Menus
+CLI = Command Line Interface - uses Text-based
+
+git bash:
+mkdir "name of folder" = creating folder/directory
+
+----------mkdir = make directory
+
+cd "name of folder" = changing directory
+
+----------cd = change directory
+
+touch "name of file" = creating file inside directory
+
+----------touch = create file
+
+rmdir name of folder = remove folder
+
+---------- rmdir = remove folder
+
+rm "name of file" = removing file
+
+---------- rm = remove file
+
+---------- pwd = Present working Directory
+
+---------- ls = List Command
+
+---------- cd .. = going back one directory
